@@ -2,5 +2,6 @@
 
 Game de JokenPo desenvolvido com Flutter.
 
-## Projeto
+# Projeto
 <img src ="imagesGit/jokenpo.png">
+
